@@ -1,12 +1,5 @@
 # CNT_Project
 
-## Report 
+This is the code for a Computational Number Theory course project in IISER Pune. This is done by Abhijeet Mohanty, Gaurav Verma, Jetharam Bhambhu, Rudresh Gade under Prof. Vivek Mohan Mallick and Prof. Baskar Balasubramaniam.
 
-The report shall have the following contents
-1. Preliminaries 
-2. Number Fields Basics
-3. Integer Partitions
-4. Indecomposable Elements
-5. 
-6. Codes and Data
-7. Exploration - .....
+Its aim is to find partions in quadratic and cubic integer rings.
